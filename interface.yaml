@@ -1,3 +1,3 @@
-name: slurm-dbd-ha-v2
+name: slurm-dbd-ha
 summary: An interface for active-backup HA of slurm dbd
 maintainer: Dmitrii Shcherbakov <dmitrii.shcherbakov@canonical.com>
